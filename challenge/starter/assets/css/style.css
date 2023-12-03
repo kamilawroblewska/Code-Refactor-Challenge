@@ -208,7 +208,7 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 { /*Changed h2 to h4 as it changed in html aswell */
     font-size: 20px;
 }
 /*End Footer Styles */
