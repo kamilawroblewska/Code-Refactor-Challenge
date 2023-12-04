@@ -12,7 +12,7 @@ Should you dare to join our fellowship, follow these sacred steps:
 
 1. Clone the Repository:
 
-git clone git@github.com:kamilawroblewska/Code-Refactor-Challenge.git
+git clone https://github.com/kamilawroblewska/Code-Refactor-Challenge.git
 
 2. Embark on the Adventure:
 
