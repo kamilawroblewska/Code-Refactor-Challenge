@@ -1,5 +1,6 @@
 # Code Refactor Challenge
 
+
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
@@ -15,12 +16,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-:
-
-    
-    [alt text](challenge/assets/screenshot.png)
+![Code-Refactor-Challenge preview image]([https://github.com/kamilawroblewska/Code-Refactor-Challenge/blob/main/challenge/Assets/01-html-css-git-challenge-demo.png])
   
 
 ## Credits
