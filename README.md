@@ -16,7 +16,7 @@ N/A
 
 ## Usage
 
-![Code-Refactor-Challenge preview image]([challenge/Assets/01-html-css-git-challenge-demo.png])
+![Code-Refactor-Challenge preview image]([https://github.com/kamilawroblewska/Code-Refactor-Challenge/challenge/Assets/01-html-css-git-challenge-demo.png])
   
 
 ## Credits
