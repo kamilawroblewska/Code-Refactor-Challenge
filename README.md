@@ -36,4 +36,5 @@ This epic is licensed under the MIT License. Use it wisely, for great power come
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+https://kamilawroblewska.github.io/Code-Refactor-Challenge/
+
