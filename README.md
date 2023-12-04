@@ -20,7 +20,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 :
 
     
-    ![alt text](challenge/assets/images/screenshot.png)
+    [alt text](challenge/assets/screenshot.png)
   
 
 ## Credits
